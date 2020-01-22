@@ -1,10 +1,10 @@
-## Projeto completo - Curso Omnistack - Semana 10
+# Projeto completo - Curso Omnistack - Semana 10
 
-### Backend
+## Backend
 `Node.js`
 
-### Web
+## Web
 `React`
 
 ## Mobile
-`React Native` 
+`React Native`
