@@ -5,6 +5,7 @@ import React from 'react';
 import './styles/global.css';
 import './styles/App.css';
 import './styles/sidebar.css';
+import './styles/main.css';
 
 function App() {
     return (
@@ -38,6 +39,74 @@ function App() {
                 </form>
             </aside>
             <main>
+                <ul>
+                    <li className="dev-item">
+                        <header>
+                            <img src="https://avatars0.githubusercontent.com/u/28576727?s=460&v=4" alt="André Figueira"/>
+                            <div className="user-info">
+                                <strong>André Figueira</strong>
+                                <span>ReactJS, React Native, Node.js</span>
+                            </div>
+                        </header>
+                        <p>Full-Stack Web Developer</p>
+                        <a href="https://github.com/andrefigueira93" target="_blank">Acessar Perfil no Github</a>
+                    </li>
+                    <li className="dev-item">
+                        <header>
+                            <img src="https://avatars0.githubusercontent.com/u/28576727?s=460&v=4" alt="André Figueira"/>
+                            <div className="user-info">
+                                <strong>André Figueira</strong>
+                                <span>ReactJS, React Native, Node.js</span>
+                            </div>
+                        </header>
+                        <p>Full-Stack Web Developer</p>
+                        <a href="https://github.com/andrefigueira93" target="_blank">Acessar Perfil no Github</a>
+                    </li>
+                    <li className="dev-item">
+                        <header>
+                            <img src="https://avatars0.githubusercontent.com/u/28576727?s=460&v=4" alt="André Figueira"/>
+                            <div className="user-info">
+                                <strong>André Figueira</strong>
+                                <span>ReactJS, React Native, Node.js</span>
+                            </div>
+                        </header>
+                        <p>Full-Stack Web Developer</p>
+                        <a href="https://github.com/andrefigueira93" target="_blank">Acessar Perfil no Github</a>
+                    </li>
+                    <li className="dev-item">
+                        <header>
+                            <img src="https://avatars0.githubusercontent.com/u/28576727?s=460&v=4" alt="André Figueira"/>
+                            <div className="user-info">
+                                <strong>André Figueira</strong>
+                                <span>ReactJS, React Native, Node.js</span>
+                            </div>
+                        </header>
+                        <p>Full-Stack Web Developer</p>
+                        <a href="https://github.com/andrefigueira93" target="_blank">Acessar Perfil no Github</a>
+                    </li>
+                    <li className="dev-item">
+                        <header>
+                            <img src="https://avatars0.githubusercontent.com/u/28576727?s=460&v=4" alt="André Figueira"/>
+                            <div className="user-info">
+                                <strong>André Figueira</strong>
+                                <span>ReactJS, React Native, Node.js</span>
+                            </div>
+                        </header>
+                        <p>Full-Stack Web Developer</p>
+                        <a href="https://github.com/andrefigueira93" target="_blank">Acessar Perfil no Github</a>
+                    </li>
+                    <li className="dev-item">
+                        <header>
+                            <img src="https://avatars0.githubusercontent.com/u/28576727?s=460&v=4" alt="André Figueira"/>
+                            <div className="user-info">
+                                <strong>André Figueira</strong>
+                                <span>ReactJS, React Native, Node.js</span>
+                            </div>
+                        </header>
+                        <p>Full-Stack Web Developer</p>
+                        <a href="https://github.com/andrefigueira93" target="_blank">Acessar Perfil no Github</a>
+                    </li>
+                </ul>
             </main>
         </div>
     );
